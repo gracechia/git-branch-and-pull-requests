@@ -40,7 +40,6 @@ Pair Programming - 30 min
 **Partner One**
 * On GitHub, create a new public repo called `cold_day`
 * Add your partner as a collaborator to the repo so they can write to it
-* `git clone` this repo to your local machine and `cd` into it
 * Create a branch called `line_one` and switch to it with `git checkout -b`
 * Create a new file called `git_haiku.txt` and open it
 * Write the first line of the Haiku, save it, then `git add` and `git commit` the changes locally
